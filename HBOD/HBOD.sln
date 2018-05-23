@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBOD", "HBOD\HBOD.csproj", "{C2E212A6-C7B5-4447-8FD8-A0F80CCA2017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBOD_", "HBOD_\HBOD_.csproj", "{13368314-ED81-45EF-8B52-A9E01110C538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E212A6-C7B5-4447-8FD8-A0F80CCA2017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E212A6-C7B5-4447-8FD8-A0F80CCA2017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E212A6-C7B5-4447-8FD8-A0F80CCA2017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E212A6-C7B5-4447-8FD8-A0F80CCA2017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13368314-ED81-45EF-8B52-A9E01110C538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13368314-ED81-45EF-8B52-A9E01110C538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13368314-ED81-45EF-8B52-A9E01110C538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13368314-ED81-45EF-8B52-A9E01110C538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D128ADDD-FC0B-49C0-AF95-F6120DC882EE}
+	EndGlobalSection
+EndGlobal
